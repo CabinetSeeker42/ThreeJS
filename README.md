@@ -1,2 +1,2 @@
 # ThreeJS
-ThreeJS course
+ThreeJS course from https://threejs-journey.com/
